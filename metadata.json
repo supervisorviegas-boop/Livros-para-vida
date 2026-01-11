@@ -1,0 +1,11 @@
+{
+  "name": "Voz de Mulher - Oratória Feminina 2026",
+  "description": "Plataforma oficial do método 'Voz de Mulher' por Viegas Vicente. Treinamento de oratória, confiança e comunicação emocional para mulheres tímidas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "author": "Viegas Vicente",
+  "company": "Grupo Conexões Digitais",
+  "version": "1.0.0-2026"
+}
